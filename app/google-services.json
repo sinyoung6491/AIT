@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24332716879",
+    "project_id": "ait-sswu",
+    "storage_bucket": "ait-sswu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24332716879:android:cc04f8f27a72f95cea533a",
+        "android_client_info": {
+          "package_name": "com.example.ait"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24332716879-qpu11uambmckf3vrsqn99u7v7p74q80o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABen2WKewmTiBjvOABlcwRPdBGcX3_adw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24332716879-qpu11uambmckf3vrsqn99u7v7p74q80o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
